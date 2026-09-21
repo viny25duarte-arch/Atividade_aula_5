@@ -1,0 +1,47 @@
+# 🎮 GameZone Retro
+
+Um projeto simples desenvolvido em **HTML** com o objetivo de criar uma página para uma loja fictícia de jogos e consoles clássicos.
+
+## 📌 Sobre o projeto
+
+A **GameZone Retro** é uma loja fictícia especializada em jogos clássicos e consoles antigos. A página apresenta informações sobre a loja, consoles disponíveis, preços de alguns jogos e links externos.
+
+O projeto foi desenvolvido utilizando apenas **HTML**, sendo uma atividade voltada para a prática dos principais elementos de estruturação de páginas web.
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* Visual Studio Code
+* Navegador Web
+
+
+## 🖥️ Conteúdo da página
+
+A página contém:
+
+* 🎮 Título da loja
+* 📝 Descrição da GameZone Retro
+* 🔗 Link para visualizar preços
+* 📸 Imagem da loja/logo
+* 📱 Link para o Instagram
+* 🕹️ Lista de consoles disponíveis
+* 💰 Tabela com jogos, consoles e preços
+* ©️ Rodapé com o nome da empresa
+
+## 🎯 Objetivo
+
+O objetivo do projeto é praticar conceitos básicos de **HTML5**, como:
+
+* Estrutura de uma página HTML;
+* Títulos e parágrafos;
+* Links;
+* Imagens;
+* Listas;
+* Tabelas;
+* Atributos HTML;
+* Organização de arquivos e pastas.
+
+## 👨‍💻 Autor
+Vinicius Souza Duarte
+
+Projeto desenvolvido como atividade de aprendizagem em desenvolvimento web.
